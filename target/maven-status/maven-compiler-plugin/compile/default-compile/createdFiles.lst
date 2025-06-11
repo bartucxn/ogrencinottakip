@@ -1,0 +1,4 @@
+com\example\nottakipapp\NotTakipAppApplication.class
+com\example\nottakipapp\repository\StudentRepository.class
+com\example\nottakipapp\model\Student.class
+com\example\nottakipapp\controller\StudentController.class
